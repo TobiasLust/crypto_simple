@@ -17,3 +17,6 @@ Gets data from an API and displays the current values.
 
 ¡Its use is simple!
 You enter a positive number in the input called 'Amount' and then choose from which currency (USDT, ETH, BTC) you want to transform it into (USDT / ARS)
+
+## Preview
+![image](https://github.com/TobiasLust/crypto_simple/assets/86390039/04160e29-1e34-458c-9094-553d72dcf15c)
